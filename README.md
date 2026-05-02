@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Reaserch**
 
-- 🤝 I’m looking for help with **Final Year Project**
+- 🤝 if you are looking for help with **Final Year Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shoaiibb](https://github.com/shoaiibb)
 
